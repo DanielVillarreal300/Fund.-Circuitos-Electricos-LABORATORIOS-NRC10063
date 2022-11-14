@@ -43,3 +43,61 @@ b) Ley de Kirchhoff de Voltajes: La suma de las caídas de voltaje en una trayec
 1.4. MATERIAL Y EQUIPO REQUERIDO
 
 [![1.png](https://i.postimg.cc/pdF30q1w/1.png)](https://postimg.cc/XZn2qcWL)
+
+1.5. EXPLICACIÓN DEL PROCEDIMIENTO
+
+•	Cálculos LVK
+ 
+ 
+•	Cálculos LCK
+ 
+ 
+1.6. PROCEDIMIENTO
+
+1.5.1. Arme el circuito que se muestra en la figura 1.1 en Thinkercad.
+ 
+1.5.2. Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla 1.1.
+ 
+Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
+
+1.5.3. Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje 
+con signo positivo y las caídas de voltaje con signo negativo. Anote los resultados en la tabla 1.2.
+
+Tabla 1.2. Verificación de la LVK.
+
+1.5.4. Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran 
+al nodo y con signo negativo las que salen del nodo. Anote los resultados en la tabla 1.3.
+
+Tabla 1.3. Verificación de la LCK.
+
+1.5.5. Compare los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto.
+Comparación hecha en el apartado de conclusiones. 
+
+Calcular errores de las mediciones y comentar los resultados.
+
+Tabla 1.4. Porcentaje de error Voltajes
+
+Tabla 1.4. Porcentaje de error Corrientes
+
+1.9. VIDEO
+
+https://youtu.be/NfmpYKpT4Mw 
+
+1.8. CONCLUSIONES
+
+•     Se demostró mediante un experimento las leyes de Kirchhoff, encontrando valores para las resistencias y voltajes del circuito 
+cerrado planteado, además el laboratorio motivó a la investigación de fuentes bibliográficas confiables, ya que se desconocía en parte 
+el tema a trabajar; alcanzando un conocimiento grupal y personal. 
+
+•	 Mediante las leyes de Kirchhoff se obtienen valores bastante cercanos a los exactos realizados por la simulación, por ende, 
+existe cierto porcentaje de error en las medidas obtenidas por este método, sin embargo, este método mantiene su grado de confiabilidad 
+y no deja de ser empleado por Ingenieros y conocedores de la materia en el análisis de circuito eléctricos.  
+
+1.9. BIBLIOGRAFÍA
+
+Floyd, T. (2007). Principios de circuitos eléctricos. (8va edición). PEARSON EDUCACIÓN, S.A.
+
+McAllister, W. (2019). Las leyes de Kirchhoff. KhanAcademy. https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws 
+
+Quiroz, P. (2021). Leyes de Kirchhoff. MecatrónicaLATAM. https://www.mecatronicalatam.com/es/tutoriales/teoria/leyes-de-kirchhoff/
+
