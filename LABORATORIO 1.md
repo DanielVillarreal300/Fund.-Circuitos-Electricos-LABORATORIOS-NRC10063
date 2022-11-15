@@ -47,28 +47,44 @@ b) Ley de Kirchhoff de Voltajes: La suma de las caídas de voltaje en una trayec
 1.5. EXPLICACIÓN DEL PROCEDIMIENTO
 
 •	Cálculos LVK
- 
+
+ [![image.png](https://i.postimg.cc/FRJQ4DQj/image.png)](https://postimg.cc/G8rfPPt2)
+ [![image.png](https://i.postimg.cc/g2kFJYWc/image.png)](https://postimg.cc/fJFgqQy1)
  
 •	Cálculos LCK
- 
+
+ [![image.png](https://i.postimg.cc/1zfkGJXL/image.png)](https://postimg.cc/McJ3x0yD)
+ [![image.png](https://i.postimg.cc/26WgJy4G/image.png)](https://postimg.cc/HcpS8pv8)
+ [![image.png](https://i.postimg.cc/nhw5hB2T/image.png)](https://postimg.cc/dhrnW7zT)
  
 1.6. PROCEDIMIENTO
 
 1.5.1. Arme el circuito que se muestra en la figura 1.1 en Thinkercad.
+
+ [![image.png](https://i.postimg.cc/SRq1vrQQ/image.png)](https://postimg.cc/MMPYc1jg)
  
 1.5.2. Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla 1.1.
+
+ [![image.png](https://i.postimg.cc/PfzR8BKC/image.png)](https://postimg.cc/s1xckHkz)
+ [![image.png](https://i.postimg.cc/FH1W81vS/image.png)](https://postimg.cc/4YkQhfm4)
  
 Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
+
+[![image.png](https://i.postimg.cc/xT1tNqcZ/image.png)](https://postimg.cc/mhKQ0L33)
 
 1.5.3. Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje 
 con signo positivo y las caídas de voltaje con signo negativo. Anote los resultados en la tabla 1.2.
 
 Tabla 1.2. Verificación de la LVK.
 
+[![image.png](https://i.postimg.cc/1X5cFY5F/image.png)](https://postimg.cc/zb6gZ7hD)
+
 1.5.4. Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran 
 al nodo y con signo negativo las que salen del nodo. Anote los resultados en la tabla 1.3.
 
 Tabla 1.3. Verificación de la LCK.
+
+[![image.png](https://i.postimg.cc/K8jKT3SR/image.png)](https://postimg.cc/mPx2fDrs)
 
 1.5.5. Compare los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto.
 Comparación hecha en el apartado de conclusiones. 
@@ -77,7 +93,11 @@ Calcular errores de las mediciones y comentar los resultados.
 
 Tabla 1.4. Porcentaje de error Voltajes
 
+[![image.png](https://i.postimg.cc/DZkmRCWX/image.png)](https://postimg.cc/ns2HDGGF)
+
 Tabla 1.4. Porcentaje de error Corrientes
+
+[![image.png](https://i.postimg.cc/6qz32tMr/image.png)](https://postimg.cc/xNJYBDD8)
 
 1.9. VIDEO
 
