@@ -65,6 +65,8 @@ Porcentaje de error respecto a experimento físico,
 
 2.7 VIDEOS
 
+https://youtu.be/kkdOkl5pYCc
+
 2.8 CONCLUSIONES
 
 •	     Se demostró mediante un experimento físico y simulado la ley de Voltajes de Kirchhoff, encontrando valores de las 3 corrientes 
