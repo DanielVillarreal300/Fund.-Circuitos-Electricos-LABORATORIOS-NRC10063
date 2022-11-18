@@ -37,18 +37,33 @@ PRÁCTICA No. 2 ANÁLISIS DE MALLAS
      
 2.4. MATERIAL Y EQUIPO REQUERIDO
  
+ [![image.png](https://i.postimg.cc/zGS0JxXH/image.png)](https://postimg.cc/cvCQhM3d)     
  
 2.5 EXPLICACIÓN DEL PROCEDIMIENTO
 
 •	Ensamblaje del circuito físico
  
+ [![image.png](https://i.postimg.cc/GhvjQXDg/image.png)](https://postimg.cc/jLdNqQZy)
+ 
+ [![image.png](https://i.postimg.cc/G2ZkPDm1/image.png)](https://postimg.cc/FdVdN7SP)
+ 
+ [![image.png](https://i.postimg.cc/X76fp9Pf/image.png)](https://postimg.cc/jCvw1nt2)
+ 
 •	Circuito simulado (Tinkercad) y valores simulados
+
+[![image.png](https://i.postimg.cc/0NjmLn6s/image.png)](https://postimg.cc/qtfzK8Xb)
  
 •	Cálculos teóricos LVK
+
+[![image.png](https://i.postimg.cc/t4CVxkNx/image.png)](https://postimg.cc/yktdqF51)
+
+[![image.png](https://i.postimg.cc/CKRBvKtM/image.png)](https://postimg.cc/HJCknTdF)
  
 2.6 PROCEDIMIENTO
 
 2.5.1. Implemente el circuito que se presenta en la figura 2.1.
+ 
+ [![image.png](https://i.postimg.cc/yxykJ3Jj/image.png)](https://postimg.cc/MfXWNTmf)
  
 2.5.2. Mida cada una de las corrientes de malla y anote los resultados en la tabla 2.1.
 
@@ -57,11 +72,18 @@ Anote los resultados en la tabla 2.1.
 
 2.5.4. Compare los valores de la tabla 2.1 y realice sus conclusiones.
 
+[![image.png](https://i.postimg.cc/SNQKTsY0/image.png)](https://postimg.cc/yW5BW7Tn)
+
 Calcular errores de las mediciones y comentar los resultados.
 
 Porcentaje de error respecto a la simulación en Tinkercad
 
+[![image.png](https://i.postimg.cc/qMZp1Gdn/image.png)](https://postimg.cc/nCB8zBrc)
+
 Porcentaje de error respecto a experimento físico,
+
+![image](https://user-images.githubusercontent.com/89498534/202628479-a960a553-7f6d-412f-9b1f-31e8eef0807d.png)
+
 
 2.7 VIDEOS
 
